@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Process variation for Isub and Id
-
 @author: pram
 """
 
